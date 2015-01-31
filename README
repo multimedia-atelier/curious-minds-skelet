@@ -1,13 +1,13 @@
-Hi! You are curious mind, thats good!
+Hi! You have a curious mind, that's good!
 
 Disclaimer:
-pom.xml should also contain plugin / targets for deploying to AppEngine, starting local dev server, etc. But it doesn't, I dont use it, I deploy from IntelliJ Idea and it works for me. I use maven only as a dependecny management tool. Let your Idea import project from local pom.xml and you should be fine.
+pom.xml should also contain plugin / targets for deploying to AppEngine, starting local dev server, etc. But it doesn't. I dont use it, I deploy directly  from IntelliJ Idea and it simply works for me. I use Maven only as a dependecny management tool. Let your Idea import this project from local pom.xml and you should be fine.
 
-best way to use this example is to go through it's source code, think about it, and then decide to do things your way :-)
+The best way how to use this example is to go through it's source code, think about it, understand it and then decide to do things your way :-)
 
 Good luck!
 
-P.S. Don't hesitate to aks me, the worst thing that can happen is that I won't answer.
+P.S. Don't hesitate to ask me, the worst thing that can happen is that I won't answer.
 
 zverina@m-atelier.cz
 
