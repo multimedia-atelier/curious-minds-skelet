@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Tomas Zverina <zverina@m-atelier.cz>
+  ~ Released under WTFPL.
+  -->
+
+<appengine-web-app xmlns="http://appengine.google.com/ns/1.0">
+
+    <application>curious-minds-demo</application>
+    <version>demo2</version>
+    <threadsafe>true</threadsafe>
+    <sessions-enabled>false</sessions-enabled>
+
+    <!--
+    <system-properties>
+        <property name="java.util.logging.config.file" value="WEB-INF/java-util-logging.properties"/>
+    </system-properties>
+    -->
+
+</appengine-web-app>
